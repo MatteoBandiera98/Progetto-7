@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    width: 15%;
+}
+#nav{
+    background-color: #0F101C;
+}
+#link1{
+    color: white;
+}
+main{
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
+
+}
